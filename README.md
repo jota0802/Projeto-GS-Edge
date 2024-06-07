@@ -24,6 +24,7 @@ Este projeto visa fornecer uma solução acessível e eficiente para monitoramen
 
 ## Link do modelo no Tinkercad:
 - [Tinkercad](https://www.tinkercad.com/things/kIOxYgypL9D-fabulous-duup/editel?sharecode=boRDmorVkcnjFK8ydvAdfaLWO_OfC3TKDvGj1hqONZo)
+- [Video-Explicativo](https://youtu.be/7XxJ4RpvZDQ)
 
 ## Desenvolvedores 🤝
 | Desenvolvedor | Avatar | RM |
