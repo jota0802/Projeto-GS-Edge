@@ -22,6 +22,9 @@ Este projeto utiliza um Arduino para monitorar a qualidade da água em termos de
 ## Expectativas sobre o Projeto 🌟
 Este projeto visa fornecer uma solução acessível e eficiente para monitoramento da qualidade da água em tempo real. Esperamos que essa ferramenta possa ser utilizada em pequenos reservatórios, aquários e até mesmo em ambientes de pesquisa para garantir a qualidade adequada da água.
 
+## Link do modelo no Tinkercad:
+- [Tinkercad](https://www.tinkercad.com/things/kIOxYgypL9D-fabulous-duup/editel?sharecode=boRDmorVkcnjFK8ydvAdfaLWO_OfC3TKDvGj1hqONZo)
+
 ## Desenvolvedores 🤝
 | Desenvolvedor | Avatar | RM |
 | ------------- | ------ | -- |
